@@ -1,5 +1,11 @@
 # AI Business Assistant : Mini Projet Prompt Engineering
 
+# Architecture
+
+<p align="center">
+  <img src="Images/architecture.png" alt="Architecture du projet" width="700">
+</p>
+
 ## Description
 
 Ce dépôt regroupe la réalisation de mini projet Prompt Engineering visant à concevoir progressivement les prompts d'un **AI Business Assistant**, un assistant IA polyvalent capable d'aider des collaborateurs à :
