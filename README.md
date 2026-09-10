@@ -1,4 +1,4 @@
-# AI Business Assistant: Mini Projer Prompt Engineering
+# AI Business Assistant : Mini Projet Prompt Engineering
 
 ## Description
 
@@ -11,7 +11,6 @@ Ce dépôt regroupe la réalisation de mini projet Prompt Engineering visant à 
 
 ## Structure du mini projet
 
-```
 | Partie | Contenu |
 |---|---|
 | 1 | Anatomie d'un prompt |
@@ -24,23 +23,17 @@ Ce dépôt regroupe la réalisation de mini projet Prompt Engineering visant à 
 | 8 | Évaluation et optimisation des prompts |
 | 9 | Bonus |
 
-```
+## Réalisation
+
+- **Fichier principal** : [atelier_prompt_engineering.ipynb](atelier_prompt_engineering.ipynb). Pour chaque tâche, il présente le prompt utilisé, la capture de la réponse et les observations.
+- **LLM utilisé** : ChatGPT (interface web).
 
 ## Organisation du dépôt
 
 ```
 ai-business_assistant/
 ├── README.md
-├── partie1_anatomie_prompt/
-├── partie2_techniques_prompting/
-├── partie3_raisonnement/
-├── partie4_sorties_structurees/
-├── partie5_applications_metier/
-├── partie6_machine_learning/
-├── partie7_rag/
-├── partie8_evaluation/
-└── partie9_bonus/
-
+└── atelier_prompt_engineering.ipynb   # réalisation de l'atelier
 ```
 
 ## ✍️ Auteur
