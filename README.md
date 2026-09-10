@@ -28,6 +28,7 @@ Ce dépôt regroupe la réalisation de mini projet Prompt Engineering visant à 
 
 ## Organisation du dépôt
 
+```
 ai-business_assistant/
 ├── README.md
 ├── partie1_anatomie_prompt/
@@ -39,6 +40,8 @@ ai-business_assistant/
 ├── partie7_rag/
 ├── partie8_evaluation/
 └── partie9_bonus/
+
+```
 
 ## ✍️ Auteur
 
