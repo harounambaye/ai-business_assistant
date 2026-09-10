@@ -25,7 +25,7 @@ Ce dépôt regroupe la réalisation de mini projet Prompt Engineering visant à 
 
 ## Réalisation
 
-- **Fichier principal** : [atelier_prompt_engineering.ipynb](atelier_prompt_engineering.ipynb). Pour chaque tâche, il présente le prompt utilisé, la capture de la réponse et les observations.
+- **Fichier principal** : [mini_projet_prompt_engineering.ipynb](atelier_prompt_engineering.ipynb). Pour chaque tâche, il présente le prompt utilisé, la capture de la réponse et les observations.
 - **LLM utilisé** : ChatGPT (interface web).
 
 ## Organisation du dépôt
@@ -33,7 +33,7 @@ Ce dépôt regroupe la réalisation de mini projet Prompt Engineering visant à 
 ```
 ai-business_assistant/
 ├── README.md
-└── atelier_prompt_engineering.ipynb   # réalisation de l'atelier
+└── mini_projet_prompt_engineering.ipynb   # réalisation de l'atelier
 ```
 
 ## ✍️ Auteur
