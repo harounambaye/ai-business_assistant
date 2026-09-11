@@ -39,7 +39,9 @@ Ce dépôt regroupe la réalisation de mini projet Prompt Engineering visant à 
 ```
 ai-business_assistant/
 ├── README.md
-└── mini_projet_prompt_engineering.ipynb   # réalisation de l'atelier
+├── mini_projet_prompt_engineering.ipynb   # réalisation de l'atelier
+└── data/
+    └── mesures_capteurs.csv               # dataset des capteurs (Partie 6)
 ```
 
 ## ✍️ Auteur
