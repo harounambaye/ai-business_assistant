@@ -41,7 +41,8 @@ ai-business_assistant/
 ├── README.md
 ├── mini_projet_prompt_engineering.ipynb   # réalisation de l'atelier
 └── data/
-    └── mesures_capteurs.csv               # dataset des capteurs (Partie 6)
+    ├── mesures_capteurs.csv               # dataset des capteurs (Partie 6)
+    └── politique_retours_shopnet.txt      # document utilisé pour le RAG (Partie 7)
 ```
 
 ## ✍️ Auteur
